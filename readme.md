@@ -5,11 +5,11 @@
 
 ## I'm a Masters Student, Data Science Enthusiast!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am pursuing my Masters in Computer Science!
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate with other Data Science enthusiasts
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play guitar / drums
+- ⚡ Fun fact: I love play guitar, play cricket, go hiking
 
 
 ### Connect with me:
