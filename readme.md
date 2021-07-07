@@ -52,6 +52,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-[facebook]: https://www.facebook.com/PratikSondkar3/
-[instagram]: https://www.instagram.com/_nomad_gent_/
-[linkedin]: https://www.linkedin.com/in/pratik-sondkar-35bb2b112/
