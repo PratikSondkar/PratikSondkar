@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate with other Data Science enthusiasts
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play guitar, play cricket, go hiking
+- ⚡ Fun fact: I love to play guitar, play cricket, go hiking, solve riddles
 
 
 ### Connect with me:
