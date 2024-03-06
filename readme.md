@@ -35,7 +35,7 @@
   </a>
   <a href="https://skillicons.dev">
     <h3 align="left">Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql, postgres, sklearn, &perline=10" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql, postgres &perline=10" />
   </a>
   <a href="https://skillicons.dev">
     <h3 align="left">DevOps:</h3>
