@@ -16,10 +16,10 @@
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/pratik-sondkar-35bb2b112/">
-    <img src="https://skillicons.dev/icons?i=linkedin," >
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=3," >
   </a>
   <a href="https://github.com/pratiksondkar">
-    <img src="https://skillicons.dev/icons?i=github," >
+    <img src="https://skillicons.dev/icons?i=github&perline=3," >
   </a>
 </p>
 
