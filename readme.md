@@ -20,41 +20,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://skillicons.dev">
-      <h3 align="left">Programming Languages:</h3>
-      <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
+<p style="display: flex; justify-content: space-between;">
+
+  <a href="https://skillicons.dev">
+    <h3 align="left">Programming Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=10" />
+  </a>
+
+  <a href="https://skillicons.dev">
     <h3 align="left">Frontend Development:</h3>
     <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">AI/ML:</h3>
-      <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">Databases:</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">DevOps:</h3>
-      <img src="https://skillicons.dev/icons?i=gcp &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">Backend as a Service(BaaS):</h3>
-      <img src="https://skillicons.dev/icons?i=heroku &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">Framework:</h3>
-      <img src="https://skillicons.dev/icons?i=flask,bootstrap &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">IDE's:</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm &perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
-      <h3 align="left">Others:</h3>
-      <img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi,anaconda &perline=10" />
-    </a>
-</p>
+  </a>
+
+  </p>
