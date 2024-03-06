@@ -15,12 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/pratiksondkar">
-    <img src="https://skillicons.dev/icons?i=github," />
-  </a>
   <a href="https://www.linkedin.com/in/pratik-sondkar-35bb2b112/">
     <img src="https://skillicons.dev/icons?i=linkedin," />
   </a>
+  <a href="https://github.com/pratiksondkar">
+    <img src="https://skillicons.dev/icons?i=github," />
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
