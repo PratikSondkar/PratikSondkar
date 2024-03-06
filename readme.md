@@ -20,9 +20,10 @@
   </a>
   <a href="https://github.com/pratiksondkar">
     <img src="https://skillicons.dev/icons?i=github&perline=3" />
+    <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </a>
 </p>
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
