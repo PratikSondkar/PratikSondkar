@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,sklearn,tensorflow,pytorch,mongodb,mysql,postgres,gcp,heroku,flask,bootstrap,vscode,eclipse,pycharm,linux,git,arduino,raspberrypi,anaconda&perline=10" />
   </a>
 </p>
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons]
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
