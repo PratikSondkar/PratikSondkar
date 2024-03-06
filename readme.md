@@ -1,35 +1,32 @@
-### Hi there, I'm Pratik 👋
+### Hi there, I'm Pratik 
 
-## I'm a AI ML Developer, Data Science Enthusiast!!
+I'm an AI/ML Developer and Data Science Enthusiast!
 
-- 🔭 I am pursuing my Masters in Computer Science!
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate with other Data Science enthusiasts
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar, play cricket, go hiking, solve riddles
-
+* **** Pursuing a Masters in Computer Science
+* **** Currently learning Data Science and Machine Learning
+* **** Looking to collaborate with other Data Science enthusiasts
+* **** 2024 Goals: Contribute more to Open Source projects
+* **⚡** Fun fact: I love playing guitar, cricket, hiking, and solving riddles
 
 ### Connect with me:
 
-[<img align="left" alt="img | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="img | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />}
-[<img align="left" alt="img | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-<br />
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg) Facebook](https://www.facebook.com/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg) Instagram](https://www.instagram.com/)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
+[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) Python]
+[![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual_studio_code.png) Visual Studio Code]
+[![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) HTML5]
+[![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) CSS3]
+[![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) JavaScript]
+[![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png) SQL]
+[![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png) MySQL]
+[![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png) MongoDB]
+[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png) Git]
+[![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png) GitHub]
+[![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png) Terminal]
 
 <br />
 <br />
