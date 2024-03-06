@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=github," />
   </a>
   <a href="https://www.linkedin.com/in/pratik-sondkar-35bb2b112/">
-    <img src="https://skillicons.dev/icons?i=github," />
+    <img src="https://skillicons.dev/icons?i=linkedin," />
   </a>
 </p>
 
