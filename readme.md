@@ -22,6 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+    <h3 align="left">Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=python,C,C++,HTML5&perline=10" />
   </a>
 </p>
