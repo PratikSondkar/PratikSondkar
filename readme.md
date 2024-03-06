@@ -24,10 +24,10 @@
     <a href="https://skillicons.dev">
       <h3 align="left">Programming Languages:</h3>
       <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=10" />
-    </a>
-    <a href="https://skillicons.dev">
+          <a href="https://skillicons.dev">
       <h3 align="left">Frontend Development:</h3>
       <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
+    </a>
     </a>
     <a href="https://skillicons.dev">
       <h3 align="left">AI/ML:</h3>
