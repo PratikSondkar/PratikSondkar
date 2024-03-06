@@ -29,4 +29,16 @@
     <h3 align="left">Frontend Development:</h3>
     <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
   </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">AI/ML:</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch, opencv, sklearn, &perline=10" />
+  </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">Databases:</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql, postgres, sklearn, &perline=10" />
+  </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">DevOps:</h3>
+    <img src="https://skillicons.dev/icons?i=gcp &perline=10" />
+  </a>
 </p>
