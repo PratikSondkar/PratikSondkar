@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think Pandas are on this Earth with no purpose, just to enjoy their life**
 
 <h3>Connect with me:</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 <p>
   <a href="https://www.linkedin.com/in/pratik-sondkar-35bb2b112/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=3" />
