@@ -20,16 +20,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <a href="https://skillicons.dev" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=10" />
-    <h3 align="left">Programming Languages:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,sklearn,tensorflow,pytorch,mongodb,mysql,postgres,gcp,heroku,flask,bootstrap,vscode,eclipse,pycharm,linux,git,arduino,raspberrypi,anaconda&perline=10" />
   </a>
-  <a href="https://skillicons.dev" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
-    <h3 align="left">Frontend Development:</h3>
-  </a>
-</div>
+</p>
 
 
 
