@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=github&perline=3" />
   </a>
 </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +37,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 <details>
-  <summary>Github Stats ⚡</summary>
+<summary>Github Stats ⚡</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksondkar&show_icons=true&locale=en&layout=compact" alt="pratiksondkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratiksondkar&show_icons=true&locale=en&layout=compact" alt="pratiksondkar" /></p>
