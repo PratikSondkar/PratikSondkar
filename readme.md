@@ -20,15 +20,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <h3 align="left">Programming Languages:</h3>
     <img src="https://skillicons.dev/icons?i=python,c,cpp&perline=10" />
   </a>
+</div>
+<div align="right">
   <a href="https://skillicons.dev">
     <h3 align="left">Frontend Development:</h3>
     <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
   </a>
+  </div>
   <a href="https://skillicons.dev">
     <h3 align="left">AI/ML:</h3>
     <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch &perline=10" />
@@ -57,4 +60,4 @@
     <h3 align="left">Others:</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi,anaconda &perline=10" />
   </a>
-</p>
+
