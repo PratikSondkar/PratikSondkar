@@ -41,4 +41,8 @@
     <h3 align="left">DevOps:</h3>
     <img src="https://skillicons.dev/icons?i=gcp &perline=10" />
   </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">Backend as a Service(BaaS):</h3>
+    <img src="https://skillicons.dev/icons?i=heroku &perline=10" />
+  </a>
 </p>
