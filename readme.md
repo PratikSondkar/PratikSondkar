@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate AI-ML developer and a Data Enthusiast</h3>
+<h1 align="right">Hi 👋, I'm Pratik</h1>
+<h3 align="right">A passionate AI-ML developer and a Data Enthusiast</h3>
 
 - 🔭 I’m currently working on **ADAS projects**
 
