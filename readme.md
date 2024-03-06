@@ -31,7 +31,7 @@
   </a>
   <a href="https://skillicons.dev">
     <h3 align="left">AI/ML:</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch, opencv, sklearn, &perline=10" />
+    <img src="https://skillicons.dev/icons?i=opencv, skleran, tensorflow,pytorch &perline=10" />
   </a>
   <a href="https://skillicons.dev">
     <h3 align="left">Databases:</h3>
