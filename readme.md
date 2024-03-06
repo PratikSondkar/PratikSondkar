@@ -1,6 +1,6 @@
 ### Hi there, I'm Pratik 👋
 
-## I'm a Masters Student, Data Science Enthusiast!!
+## I'm a AI ML Developer, Data Science Enthusiast!!
 
 - 🔭 I am pursuing my Masters in Computer Science!
 - 🌱 I’m currently learning Data Science and Machine Learning
