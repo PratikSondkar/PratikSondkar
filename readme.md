@@ -45,4 +45,16 @@
     <h3 align="left">Backend as a Service(BaaS):</h3>
     <img src="https://skillicons.dev/icons?i=heroku &perline=10" />
   </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">Framework:</h3>
+    <img src="https://skillicons.dev/icons?i=flask,bootstrap &perline=10" />
+  </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">IDE's:</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm &perline=10" />
+  </a>
+  <a href="https://skillicons.dev">
+    <h3 align="left">Others:</h3>
+    <img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi,anaconda &perline=10" />
+  </a>
 </p>
